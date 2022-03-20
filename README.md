@@ -24,5 +24,5 @@ This repo will only include the code running on Raspberry Pi C and requirement f
 2. Set up a public broker on another PC
 3. Set up other Raspberry Pis and laptops
 4. Modify the value of variable `broker` in files to `"*IP ADDRESS OF BROKER*"` in PiC.py
-5. Run files PiC.py
+5. Run the file PiC.py
 
